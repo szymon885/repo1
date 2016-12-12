@@ -1,4 +1,4 @@
 language: python
 python:
--"2.6"
-script: pytest
+ -"2.6"
+
